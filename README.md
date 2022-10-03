@@ -1,6 +1,6 @@
-<h1 style="text-align: center">Hi 👋🏻, I'm Vrishti Bansal</h1>
+<h1 style="align: center">Hi 👋🏻, I'm Vrishti Bansal</h1>
 <hr>
-<h2 style="text-align: center">Student, Developer, Learner!</h2>
+<h2 style="align: center">Student, Developer, Learner!</h2>
 
 
 <ul>
@@ -38,10 +38,6 @@
     <a href="https://www.linux.org/" rel="nofollow"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="max-width: 100%;" width="40" height="40"></code>  
     </a> 
-
-
-<h1> Hi 👋🏻, I'm Vrishti Bansal</h1>
-I'm a Student, Developer, Learner!
 
 - 👋 Hi, I’m @vrishtibansal12
 - 👀 I’m interested in ...
