@@ -74,8 +74,6 @@ Utilizing effective strategic planning and performance optimization techniques, 
 <a href="https://linkedin.com/in/vrishti-bansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" /> </a>
 <a href="https://www.instagram.com/perksofbeingvrishti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /> </a>
 <a href="https://leetcode.com/vrishti_bansal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /> </a>
-
-<img src="" alt="tayushi1610" style="max-width: 100%;" width="40" height="30" align="middle">
 <!-- <a href="https://fb.com/devesh19.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="devesh19.07" height="30" width="40" /> </a> -->
 <!-- <a href="https://instagram.com/buck.sh0t" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/1384/1384063.png" alt="buck.sh0t" height="30" width="40" /> </a> -->
 <!-- <a href="https://www.codechef.com/users/buckshot" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1347119566623711232/WmTasleL_400x400.jpg" alt="buckshot" height="30" width="40" /> </a>
